@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kumo829/kumo829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +15,11 @@ Here are some ideas to get you started:
 ### Hi there, I'm Alex 👋 
 
 
-- 🌱 I’m currently learning ReactJS and improving my skills in Java microservices architecture
+- 🌱 I’m currently learning ReactJS and improving my skills in Java microservices architecture.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating on creating training materials for new joiners on Java Technology.
 - 👨‍🎓 I have a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com)
+- 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829)
 
 <br />
 <!--
