@@ -20,16 +20,17 @@ Here are some ideas to get you started:
 <img alt="JavaBadge" src="https://img.shields.io/badge/backend-Java-red" /> <img alt="ReactBadge" src="https://img.shields.io/badge/frontend-ReactJS-blue" />
 <img alt="DockerBadge" src="https://img.shields.io/badge/infra-Docker-9cf" /> <img alt="AWSBadge" src="https://img.shields.io/badge/infra-AWS-orange" />
 
-I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I love to learn, collaborate, and mentor people to develop and deploy amazing software to give the greatest value to the users. 
+I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
 
-I'm a software engineering specialist with strong design & development experience in Core Java, J2EE, Spring Framework and Web Technologies. 
+I'm a software engineering specialist with strong design & development experience in Core Java, J2EE, Spring Framework, and Web Technologies, applying design patterns and `S.O.L.I.D.` design principles.
 
-I also have experience in Java coding practices as writing readable and maintainable code, defensive coding and Java refactoring best practices using design principles.
+I also have experience in Java coding practices as writing readable and maintainable code, defensive coding, and Java refactoring best practices using design principles.
+
 
 I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Japan <img alt="Japan" height="15" src="https://cdn.countryflags.com/thumbs/japan/flag-400.png" />.
 
 
-- 🌱 I’m currently sharping my knlodlege in ReactJS and improving my skills in Java microservices architecture.
+- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Java` Microservices Architecture.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
 - 👨‍🎓 I have a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now I'm writing a series on Design Patterns.
@@ -59,10 +60,10 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 <img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 </div>
 
 <br /><br />
+<br />
 
 #### Stats:
 
