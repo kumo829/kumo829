@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="MyBanner" src="./banner.png" />
+
 ### Hi there, Alex here! 👋 
 
 <img alt="JavaBadge" src="https://img.shields.io/badge/backend-Java-red" /> <img alt="ReactBadge" src="https://img.shields.io/badge/frontend-ReactJS-blue" />
