@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img alt="JavaBadge" src="https://img.shields.io/badge/backend-Java-red" /> <img alt="ReactBadge" src="https://img.shields.io/badge/frontend-ReactJS-blue" />
 <img alt="DockerBadge" src="https://img.shields.io/badge/infra-Docker-9cf" /> <img alt="AWSBadge" src="https://img.shields.io/badge/infra-AWS-orange" />
 
-I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
+I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I've been a professional developer since 2006. I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
 
 I'm a software engineering specialist with strong design & development experience in Core Java, J2EE, Spring Framework, and Web Technologies, applying design patterns and `S.O.L.I.D.` design principles.
 
@@ -33,8 +33,10 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 - 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Java` Microservices Architecture.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
-- 👨‍🎓 I have a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now I'm writing a series on Design Patterns.
-- 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829)
+- 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
+- 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829).
+- 👨‍🎓 I'm continuously learning in [Platzi](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW5Yy_sJf1AhWCIaYKHblcBmYQFnoECBAQAQ&url=https%3A%2F%2Fplatzi.com%2F&usg=AOvVaw17f44Rn2QmHDt2KaFRV4p7), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.google.com/aclk?sa=L&ai=DChcSEwir9fvnsJf1AhWKdmAKHVkBAQwYABAAGgJ0bQ&sig=AOD64_32tsW6oQcbBS9LX3ne90CCd-cKMw&q&adurl&ved=2ahUKEwj27_TnsJf1AhWLPJQKHcPwATQQ0Qx6BAgCEAE). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
+- ⚡ Fun fact: I love playing video games. When I'm not glued to a screen, I spend time reading books and playing with magnets and LEGOs.
 
 <br />
 
