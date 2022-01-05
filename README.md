@@ -55,7 +55,8 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 <img align="left" alt="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Jira" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Jenkins" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<br /> 
+  
+<br /> <br /> 
 
 <img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
