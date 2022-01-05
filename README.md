@@ -36,6 +36,7 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 - 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
 - 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829).
 - 👨‍🎓 I'm continuously learning in [Platzi](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW5Yy_sJf1AhWCIaYKHblcBmYQFnoECBAQAQ&url=https%3A%2F%2Fplatzi.com%2F&usg=AOvVaw17f44Rn2QmHDt2KaFRV4p7), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.google.com/aclk?sa=L&ai=DChcSEwir9fvnsJf1AhWKdmAKHVkBAQwYABAAGgJ0bQ&sig=AOD64_32tsW6oQcbBS9LX3ne90CCd-cKMw&q&adurl&ved=2ahUKEwj27_TnsJf1AhWLPJQKHcPwATQQ0Qx6BAgCEAE). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
+- 👷‍♂️ In my last two jobs I migrated JEE Mononith applications to Spring Boot Microservices. In the last one is still a work in progress 🙌.
 - ⚡ Fun fact: I love playing video games. When I'm not glued to a screen, I spend time reading books and playing with magnets and LEGOs.
 
 <br />
