@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 
 I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I've been a professional developer since 2006. I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
 
-I'm a software engineering specialist with strong design & development experience in Core Java, J2EE, Spring Framework, and Web Technologies, applying design patterns and `S.O.L.I.D.` design principles.
+I'm a software engineering specialist with a focus on the Java ecosystem, with strong design & development experience in Core Java, J2EE, Spring Framework, and Web Technologies, applying design patterns and `S.O.L.I.D.` design principles.
 
 I also have experience in Java coding practices as writing readable and maintainable code, defensive coding, and Java refactoring best practices using design principles.
 
+I've found that writing is the best way to learn. I regularly write about software development on my blog at [JavaTutoriales](http://javatutoriales.com).
 
 I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Japan <img alt="Japan" height="15" src="https://cdn.countryflags.com/thumbs/japan/flag-400.png" />.
 
