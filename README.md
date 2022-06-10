@@ -28,7 +28,7 @@ I also have experience in Java coding practices as writing readable and maintain
 
 I've found that writing is the best way to learn. I regularly write about software development on my blog at [JavaTutoriales](http://javatutoriales.com).
 
-I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Japan <img alt="Japan" height="15" src="https://cdn.countryflags.com/thumbs/japan/flag-400.png" />.
+I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Canada <img alt="Canada" height="15" src="https://cdn.countryflags.com/thumbs/canada/flag-400.png" />.
 
 
 - 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Java` Microservices Architecture.
