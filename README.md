@@ -36,7 +36,7 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
 - 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
 - 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829).
-- 👨‍🎓 I'm continuously learning in [Pluralsight](https://app.pluralsight.com/profile/alejandro-montoya-43), [Platzi](https://platzi.com/p/amontoya829/), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.coursera.org/). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
+- 👨‍🎓 I'm continuously learning in [Pluralsight](https://app.pluralsight.com), [Platzi](https://platzi.com), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.coursera.org/). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
 - 👷‍♂️ In my last two jobs I migrated JEE Mononith applications to Spring Boot Microservices 🙌.
 - ⚡ Fun fact: I love playing video games. When I'm not glued to a screen, I spend time reading books and playing with magnets and LEGOs.
 
