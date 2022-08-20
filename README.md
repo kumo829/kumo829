@@ -31,13 +31,13 @@ I've found that writing is the best way to learn. I regularly write about softwa
 I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Canada <img alt="Canada" height="15" src="https://cdn.countryflags.com/thumbs/canada/flag-400.png" />.
 
 
-- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Java` Microservices Architecture.
+- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Scala` Microservices Architecture wit Akka.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
 - 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
 - 😎 Visit my [Hacker Rank profile](https://www.hackerrank.com/kumo829).
-- 👨‍🎓 I'm continuously learning in [Platzi](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjW5Yy_sJf1AhWCIaYKHblcBmYQFnoECBAQAQ&url=https%3A%2F%2Fplatzi.com%2F&usg=AOvVaw17f44Rn2QmHDt2KaFRV4p7), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.google.com/aclk?sa=L&ai=DChcSEwir9fvnsJf1AhWKdmAKHVkBAQwYABAAGgJ0bQ&sig=AOD64_32tsW6oQcbBS9LX3ne90CCd-cKMw&q&adurl&ved=2ahUKEwj27_TnsJf1AhWLPJQKHcPwATQQ0Qx6BAgCEAE). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
-- 👷‍♂️ In my last two jobs I migrated JEE Mononith applications to Spring Boot Microservices. In the last one is still a work in progress 🙌.
+- 👨‍🎓 I'm continuously learning in [Pluralsight](https://app.pluralsight.com/profile/alejandro-montoya-43), [Platzi](https://platzi.com/p/amontoya829/), [Packt](https://www.packtpub.com/), [Udemy](https://www.udemy.com/), and [Coursera](https://www.coursera.org/). I'm a huge fan of online learning and believe that education happens everywhere, not just in the classroom.
+- 👷‍♂️ In my last two jobs I migrated JEE Mononith applications to Spring Boot Microservices 🙌.
 - ⚡ Fun fact: I love playing video games. When I'm not glued to a screen, I spend time reading books and playing with magnets and LEGOs.
 
 <br />
@@ -47,7 +47,9 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 <div style="display: inline_block">
 
 <img align="left" alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Scala" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
 <img align="left" alt="Spring" width="40" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" />
+<img align="left" alt="Akka" width="25" src="https://www.svgrepo.com/show/353381/akka.svg" />
 <img align="left" alt="MySQL" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
