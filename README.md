@@ -31,7 +31,7 @@ I've found that writing is the best way to learn. I regularly write about softwa
 I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Canada <img alt="Canada" height="15" src="https://cdn.countryflags.com/thumbs/canada/flag-400.png" />.
 
 
-- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Scala` Microservices Architecture wit Akka.
+- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Scala` Microservices Architecture with Akka.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
 - 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
