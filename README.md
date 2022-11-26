@@ -1,26 +1,13 @@
-<!--
-**kumo829/kumo829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img alt="MyBanner" src="./banner.png" />
 
 ### Hi there, Alex here! 👋 
 
+###### *Software Engineer and Architect*
+
 <img alt="JavaBadge" src="https://img.shields.io/badge/backend-Java-red" /> <img alt="ReactBadge" src="https://img.shields.io/badge/frontend-ReactJS-blue" />
 <img alt="DockerBadge" src="https://img.shields.io/badge/infra-Docker-9cf" /> <img alt="AWSBadge" src="https://img.shields.io/badge/infra-AWS-orange" />
 
-I'm a ***Full Stack Developer/Architect and Manager*** with more than 16 years of experience. I've been a professional developer since 2006. I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
+I'm a passionate ***Full Stack Developer/Architect and Manager*** with industry experience since 2006 (17+ years of experience!). I love to learn, collaborate, and mentor people to develop and deploy fantastic software to give the most outstanding value to the users.
 
 I'm a software engineering specialist with a focus on the Java ecosystem, with strong design & development experience in Core Java, J2EE, Spring Framework, and Web Technologies, applying design patterns and `S.O.L.I.D.` design principles.
 
@@ -31,7 +18,7 @@ I've found that writing is the best way to learn. I regularly write about softwa
 I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thumbs/mexico/flag-400.png" />, but I'm currently living and working in Canada <img alt="Canada" height="15" src="https://cdn.countryflags.com/thumbs/canada/flag-400.png" />.
 
 
-- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in `Scala` Microservices Architecture with Akka.
+- 🌱 I’m currently sharping my knowledge in `ReactJS` and improving my skills in Microservices Architecture using <a href="https://academy.lightbend.com/courses?search_query=FILTER_TOPIC_REACTIVE_ARCHITECTURE">Reactive Architectures</a>.
 - 👯 I’m looking to collaborate on any project or with other content creators.
 - 🔭 I'm currently collaborating with two companies on creating training materials for new joiners on Java and JavaScript Technology.
 - 👨‍💻 Since 2009, I have had a blog where I publish java tutorials: [JavaTutoriales](http://javatutoriales.com). Right now, I'm writing a series on Design Patterns.
@@ -73,13 +60,23 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 <br /><br />
 <br />
 
-#### Stats:
+#### GutHub Stats:
 
 <div style="display: inline_block">
   <a href="https://github.com/kumo829">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="385em" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img width="335em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumo829&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+  </a>
 </div>
+            
+<a href="http://www.github.com/kumo829"><img
+        src="https://activity-graph.herokuapp.com/graph?username=kumo829&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph"
+        alt="GitHub Commits Graph" style="width: 1010px;border-radius: 5px;" /></a>
+        
+
 <!--
 </div>
   
