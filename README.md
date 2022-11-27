@@ -64,16 +64,16 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 
 <div style="display: inline_block">
   <a href="https://github.com/kumo829">
-  <img width="385em" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="375em" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&bg_color=1c1917&include_all_commits=true&count_private=true&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
   
-  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&bg_color=1c1917&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
   
-  <img width="335em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumo829&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+  <img width="335em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumo829&stroke=ffffff&background=1c1917&ring=0070c0&fire=ff9900&currStreakNum=ffffff&currStreakLabel=0070c0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
   </a>
 </div>
             
 <a href="http://www.github.com/kumo829"><img
-        src="https://activity-graph.herokuapp.com/graph?username=kumo829&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph"
+        src="https://activity-graph.herokuapp.com/graph?username=kumo829&bg_color=1c1917&color=ffffff&line=0070c0&point=ff9900&area_color=0070c0&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" style="width: 1010px;border-radius: 5px;" /></a>
         
 
