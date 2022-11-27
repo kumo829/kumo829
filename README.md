@@ -64,11 +64,15 @@ I am Mexican <img alt="Mexico" height="15" src="https://cdn.countryflags.com/thu
 
 <div style="display: inline_block">
   <a href="https://github.com/kumo829">
-  <img width="375em" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&bg_color=1c1917&include_all_commits=true&count_private=true&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
   
-  <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&bg_color=1c1917&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=kumo829&show_icons=true&bg_color=1c1917&include_all_commits=true&count_private=true&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
+ 
   
-  <img width="335em" src="https://github-readme-streak-stats.herokuapp.com/?user=kumo829&stroke=ffffff&background=1c1917&ring=0070c0&fire=ff9900&currStreakNum=ffffff&currStreakLabel=0070c0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumo829&layout=compact&langs_count=7&bg_color=1c1917&text_color=0070c0&title_color=ffffff&icon_color=ff9900"/>
+  
+   
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=kumo829&stroke=ffffff&background=1c1917&ring=0070c0&fire=ff9900&currStreakNum=ffffff&currStreakLabel=0070c0&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+  
   </a>
 </div>
             
